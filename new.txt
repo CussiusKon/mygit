@@ -1,5 +1,5 @@
 public
 
-Creating a new branch is quick.feature
+Creating a new branch is feature
 
 git deal feature
