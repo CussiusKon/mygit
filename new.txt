@@ -8,3 +8,5 @@ off fast forward git merge
 
 
 git dev branch add something
+
+push mygit dev test
