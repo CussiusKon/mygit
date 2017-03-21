@@ -3,3 +3,5 @@ public
 Creating a new branch is feature
 
 Creating a new branch is quick and simple.
+
+off fast forward git merge
